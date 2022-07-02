@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/507816657.svg)](https://zenodo.org/badge/latestdoi/507816657)
+
 # Online theta monitoring
 
 This repository contains the code for a real-time EEG system for infants that allows the online monitoring of brain activity in infants while they are in interaction with their environment. This is developed as part of the [SAPIENS](http://sapiens-itn.eu) project.
